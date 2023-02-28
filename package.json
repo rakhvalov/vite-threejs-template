@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/rakhvalov/vite-threejs-template#readme",
   "dependencies": {
-    "three": "^0.149.0"
+    "three": "^0.150.1"
   },
   "devDependencies": {
     "@types/node": "^18.14.2",
